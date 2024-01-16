@@ -65,3 +65,9 @@ font-weight: bold;
 padding: 5%;
 margin: auto;
 }
+.section{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 70%;
+}
